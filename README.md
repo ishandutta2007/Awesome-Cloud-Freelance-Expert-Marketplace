@@ -65,7 +65,7 @@ The cloud freelance market spans **open marketplaces** (Upwork, Freelancer, Five
 
 ## 🔓 Open-Source GitHub Projects 🌟
 
-*Sorted by GitHub Stars Count (Descending)* 📊
+*Sorted by GitHub_Stars_Count (Descending)* 📊
 
 - **[Good Dev Hunting](https://github.com/nerdbord/good-dev-hunting-app)** [![Stars](https://img.shields.io/github/stars/nerdbord/good-dev-hunting-app?style=social&color=white)](https://github.com/nerdbord/good-dev-hunting-app/stargazers)  
   **Free and open-source platform for connecting skilled software engineers with tech talent seekers**, GPL-3.0 licensed. Features advanced candidate filtering by technology, seniority, availability, and location. Built with Next.js, TypeScript, Prisma, and PostgreSQL. 🎯
@@ -141,3 +141,12 @@ Thank you for supporting open-source software and transparent developer ecosyste
 <p align="center">
   <b>Made with ❤️ for developers, cloud architects, hiring managers, and open-source talent marketplace advocates.</b>
 </p>
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Cloud-Freelance-Expert-Marketplace&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Cloud-Freelance-Expert-Marketplace_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Cloud-Freelance-Expert-Marketplace_growth.svg">
+  </picture>
+</a>
