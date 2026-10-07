@@ -245,3 +245,12 @@ If you find this freelance marketplace repository useful, please consider suppor
   <b>Made with ❤️ for developers, hiring managers, and open-source talent marketplace advocates.</b>
 
 </p>
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Cloud-Freelance-Expert-Marketplace&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Cloud-Freelance-Expert-Marketplace_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Cloud-Freelance-Expert-Marketplace_growth.svg">
+  </picture>
+</a>
